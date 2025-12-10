@@ -1,0 +1,81 @@
+MIT License
+
+Copyright (c) 2025 [Your Company Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, and distribute the Software for NON-COMMERCIAL, EDUCATIONAL, AND DEMONSTRATION
+PURPOSES ONLY, subject to the following conditions:
+
+IMPORTANT RESTRICTIONS:
+
+1. PROPRIETARY INFORMATION PROTECTION:
+   - The Software contains sanitized code with proprietary algorithms, business logic,
+     and architectural patterns removed or obfuscated.
+   - You may NOT attempt to reverse engineer, reconstruct, or infer the original
+     implementation details from these sanitized files.
+   - You may NOT use these files to recreate or replicate the original system architecture.
+
+2. COMMERCIAL USE PROHIBITION:
+   - The Software is provided for NON-COMMERCIAL purposes only.
+   - You may NOT use the Software or any derivative works for commercial purposes,
+     including but not limited to:
+     * Creating competing products or services
+     * Developing commercial applications based on these templates
+     * Using in any revenue-generating activities
+     * Incorporating into paid products or services
+
+3. REFERENCE AND EDUCATIONAL USE ONLY:
+   - The Software is intended for reference, educational, and demonstration purposes.
+   - You may use the Software to:
+     * Learn Flutter/Dart UI patterns and structures
+     * Understand widget composition and layout techniques
+     * Study responsive design implementations
+     * Reference for your own non-competing projects
+
+4. NO WARRANTY:
+   - The Software is provided "AS IS", without warranty of any kind, express or implied,
+     including but not limited to the warranties of merchantability, fitness for a
+     particular purpose and noninfringement.
+   - The Software may contain errors, incomplete implementations, or broken code due to
+     sanitization processes.
+   - In no event shall the authors or copyright holders be liable for any claim, damages
+     or other liability arising from the use of the Software.
+
+5. ATTRIBUTION:
+   - You must retain the original copyright notice and this license in all copies or
+     substantial portions of the Software.
+
+6. MODIFICATIONS:
+   - You may modify the Software for your own non-commercial, educational purposes.
+   - Modified versions must retain this license and copyright notice.
+   - You may NOT distribute modified versions that attempt to restore or reconstruct
+     proprietary functionality.
+
+7. INTELLECTUAL PROPERTY:
+   - All proprietary algorithms, business logic, service implementations, data models,
+     and architectural patterns remain the exclusive property of the copyright holder.
+   - This license does not grant any rights to the original, unsanitized codebase.
+   - Any attempt to access, reconstruct, or use the original proprietary codebase
+     is strictly prohibited.
+
+TERMINATION:
+
+This license is automatically terminated if you violate any of the above terms.
+Upon termination, you must immediately cease all use of the Software and destroy
+all copies in your possession.
+
+DISCLAIMER:
+
+These sanitized files are structural templates only and are NOT executable code.
+They are provided for reference purposes to demonstrate UI/UX patterns without
+revealing proprietary system architecture, algorithms, or business logic.
+
+By using this Software, you acknowledge that you have read this license, understand it,
+and agree to be bound by its terms.
+
+---
+
+For commercial licensing inquiries or questions about usage rights, please contact:
+[Your Contact Information]
+
